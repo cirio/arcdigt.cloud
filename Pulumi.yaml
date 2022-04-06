@@ -1,0 +1,3 @@
+name: Arcdigit.Cloud.Deployment
+runtime: dotnet
+description: DEMO - azure deployment
